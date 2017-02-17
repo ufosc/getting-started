@@ -25,8 +25,8 @@ Please check the [Projects]() and [Issues]() pages for current task. If you see 
 
 ### Report Bug 
 
-Please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an [Issue]() with this description and add a bug label. We will do our best to respond quickly to it. 
+Please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an [Issue](https://github.com/ufosc/resources/issues) with this description and add a bug label. We will do our best to respond quickly to it. 
 
 ### Request a Feature
 
-Check to see if the feature is already listed in our [Projects](). If it's not, describe the feature and why it would be beneficial. Create an [Issue]() with this description and add a feature enhancement label. We will do our best to respond quickly to it. 
+Check to see if the feature is already listed in our [Projects](https://github.com/ufosc/resources/projects). If it's not, describe the feature and why it would be beneficial. Create an [Issue](https://github.com/ufosc/resources/issues) with this description and add a feature enhancement label. We will do our best to respond quickly to it. 
