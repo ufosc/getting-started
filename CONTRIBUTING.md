@@ -8,7 +8,7 @@ Following these guidelines helps us keep good project workflow. We appreciate yo
 
 ## How to help?
 
-Please check the [Projects]() and [Issues]() pages for current task. If you see something that you would like to help with, please ask about helping in a comment. 
+Please check the [Projects](https://github.com/ufosc/resources/projects) and [Issues](https://github.com/ufosc/resources/issues) pages for current task. If you see something that you would like to help with, please ask about helping in a comment. 
 
 ### Submit Changes 
 
