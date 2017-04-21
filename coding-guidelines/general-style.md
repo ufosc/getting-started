@@ -4,13 +4,13 @@
 
 ```c++
 // Description of why your code does what it does
-public void myFunction(int anArg)
+public void myFunction(int arg)
 {
 	int testVariable = 1;
 
-	if (anArg != 0)
+	if (arg != 0)
 	{
-		MyClass sampleClass = new MyClass(anArg);
+		MyClass sampleClass = new MyClass(arg);
 	}
 }
 ```
@@ -32,8 +32,8 @@ public void myFunction(int anArg)
 	- When breaking up a line return after commas, and before (+, -, ==, &&, etc).
 
 ```c++
-if (aBar == 5 || aBar == 12 || aBar == 98 ||
-		aBar == 120 || aBar == 177 || aVar == 180)
+if (bar == 5 || bar == 12 || bar == 98 ||
+		bar == 120 || bar == 177 || var == 180)
 {
 	foo = 2;
 }
@@ -57,8 +57,6 @@ bool y = true || false;
 	- Constants in CAPS_WITH_UNDER
 	- Classes in CapWords
 	- Variables and methods in mixedCase
-	- Class and struct members start with "the"
-	- Parameters start with "a" or "an"
 - Braces
 	- Shall be placed on a new line
 
@@ -86,23 +84,23 @@ for (int i = 0; i < count; i++)
 // Example class
 class FooBar
 {
-	public int theFooBar;
+	public int bar;
 
-	FooBar(int aFoo, int aBar)
+	FooBar(int foo, int bar)
 	{
-		this.theFooBar = aFoo + aBar;
+		this.bar = foo + bar;
 	}
 }
 
 // Creates a foo from bar to add back to bar
-private bool makeFoo(int aBar)
+private int makeFoo(int bar)
 {
 	// Normally foobar is twice bar
-	int foo = aBar;
+	int foo = bar;
 
 	// Foobar can't be 0, because of arbitrary
 	// reason for an example
-	if (aBar == 0)
+	if (bar == 0)
 	{
 		foo = 1;
 	}
@@ -120,7 +118,7 @@ int main()
 
 	FooBar fooBar = new FooBar(foo, bar);
 
-	std::cout << fooBar.theFooBar << std::endl;
+	std::cout << fooBar.bar << std::endl;
 	return 0;
 }
 ```
