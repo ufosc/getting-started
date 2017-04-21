@@ -10,6 +10,6 @@ Here is a break down of out Git tutorials
 
 - [Interactive Github Tutorial](https://www.codeschool.com/courses/try-git)
 - [Simple Gitflow](https://guides.github.com/introduction/flow/)
-- [Indepth Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)
+- [In Depth Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)
 - [Git Cheat Sheet]( https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 - [Saving Github login credentials]( https://help.github.com/articles/caching-your-github-password-in-git/)

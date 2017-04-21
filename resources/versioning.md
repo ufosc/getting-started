@@ -12,4 +12,4 @@ Also of note, any Major Change number below 1 indicates the project is not ready
 
 ## Resources 
 
-[Semantic Versioning Guidelines](http://semver.org/)  
+- [Semantic Versioning Guidelines](http://semver.org/)  
