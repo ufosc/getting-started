@@ -20,6 +20,7 @@ This is to explain what each part of the project template is. Any items in the o
 - [Choose a License][Choose License]
 - [Gitignore Generator](https://www.gitignore.io/)
 - [EditorConfig Website][EditorConfig]
+- [Contributing Template](https://github.com/nayafia/contributing-template)
 
 [Choose License]: https://choosealicense.com/
 [EditorConfig]: http://editorconfig.org/
