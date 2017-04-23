@@ -24,6 +24,16 @@
 
 **End with an example of getting some data out of the system or using it for a little demo**
 
+### Compiling 
+
+**Give step**
+
+```
+**code to run**
+```
+
+**End with an example of getting some data out of the system or using it for a little demo**
+
 ## Deployment
 
 **Additional steps to deploy and run the project**
