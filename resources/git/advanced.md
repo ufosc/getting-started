@@ -69,3 +69,11 @@ or
 ```
 Close #X
 ```
+
+## Resources 
+
+- [Git Reset Differences](https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard)
+- [How to undo the last commit](https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit)
+- [Git Rebase Info](https://www.linux.com/learn/how-rebase-git)
+- [Making a new repo from an old branch](https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo)
+- [Password Caching](https://help.github.com/articles/caching-your-github-password-in-git/#platform)
