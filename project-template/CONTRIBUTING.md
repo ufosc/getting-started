@@ -2,13 +2,23 @@
 
 Thank you for helping out with the UFOSC's **project name**!
 
-Please check out our [slack](http://ufosc.slack.com/) for any additional questions or just to hangout! 
-
 Following these guidelines helps us keep good project workflow. We appreciate you working with us on it. 
+
+Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our community expectations. Check out our [slack](http://ufosc.slack.com/) for any additional questions or just to hangout! Look at our [AUTHORS.md](AUTHORS.md) for a list of maintainers and contributors.
 
 ## How to help?
 
-Please check the **[Projects]()** and **[Issues]()** pages for current task. If you see something that you would like to help with, please ask about helping in a comment comment and we'll assign you too it. Checkout the **[DESIGN.md]()** file for an explanation of the architecture of the project. 
+Please check the **[Projects]()** and **[Issues]()** pages for current task. If you see something that you would like to help with, ask about helping in a comment and we'll assign it too you. If you're just starting out, checkout our **[beginner friendly]()** issues for ways to help. 
+
+Checkout the **[DESIGN.md](docs/DESIGN.md)** file for a high level explanation of the project. Look at the other files in docs for more information. 
+
+### Report Bug 
+
+Please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an **[Issue]()** with the description and add a bug label. We will do our best to respond quickly to it. 
+
+### Request a Feature
+
+Check to see if the feature is already listed in our **[Projects]()**. If it's not, describe the feature and why it would be beneficial. Create an **[Issue]()** with this description and add a feature enhancement label. We will do our best to respond quickly to it. 
 
 ### Run Test 
 
@@ -30,14 +40,6 @@ Please check the **[Projects]()** and **[Issues]()** pages for current task. If 
 	- Any needed changes will be noted 
 6. The changes will be added to the project 
 	- Yay! Thank you so much for helping out
-
-### Report Bug 
-
-Please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an **[Issue]()** with this description and add a bug label. We will do our best to respond quickly to it. 
-
-### Request a Feature
-
-Check to see if the feature is already listed in our **[Projects]()**. If it's not, describe the feature and why it would be beneficial. Create an **[Issue]()** with this description and add a feature enhancement label. We will do our best to respond quickly to it. 
 
 ## Style Guide 
 
