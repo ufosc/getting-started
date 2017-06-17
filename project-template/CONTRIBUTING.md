@@ -10,15 +10,15 @@ Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our commu
 
 Please check the **[Projects]()** and **[Issues]()** pages for current task. If you see something that you would like to help with, ask about helping in a comment and we'll assign it too you. If you're just starting out, checkout our **[beginner friendly]()** issues for ways to help. 
 
-Checkout the **[DESIGN.md](docs/DESIGN.md)** file for a high level explanation of the project. Look at the other files in docs for more information. 
+Checkout the [DESIGN.md](docs/DESIGN.md) file for a high level explanation of the project. For a road map, look at the [TODO.md](docs/TODO.md) which lists planned features for the project. Check out the other files in docs for more information. 
 
 ### Report Bug 
 
-Please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an **[Issue]()** with the description and add a bug label. We will do our best to respond quickly to it. 
+Check to see if someone already reported this [bug]() already exists. If so then leave a comment on that issue. If not, please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an **[Issue]()** with the description and add a bug label. We will do our best to respond quickly to it. 
 
 ### Request a Feature
 
-Check to see if the feature is already listed in our **[Projects]()**. If it's not, describe the feature and why it would be beneficial. Create an **[Issue]()** with this description and add a feature enhancement label. We will do our best to respond quickly to it. 
+Check to see if the feature is already listed in our [TODO.md](docs/TODO.md). If it's not, describe the feature and why it would be beneficial. Create an **[Issue]()** with this description and add a feature enhancement label. We will do our best to respond quickly to it. 
 
 ### Run Test 
 
