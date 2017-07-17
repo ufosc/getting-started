@@ -1,16 +1,10 @@
-# Authors 
+# Contributors  
 
 Special thanks to all the contributors who volunteered their valuable time to this project. 
 
 ## Maintainers 
 
-Members tasked with maintaining the code and the peace. Message them if there is any issue. 
-
-- **Name, GitHub handle**
-
-### Alumni 
-
-Retired maintainers. 
+Members tasked with maintaining the code and the peace. Message them if there is any issue. Retired maintainers will be noted.
 
 - **Name, GitHub handle**
 

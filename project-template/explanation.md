@@ -12,7 +12,7 @@ This is to explain what each part of the project template is. Any items in the o
 
 **[CREDITS.md](CREDITS.md)** - This file gives credits to any open source code used in the project. It gives a short description of each project, links to the source code, and includes the corresponding license. 
 
-**[AUTHORS.md](AUTHORS.md)** - This list all maintainers and contributors who have made a positive impact on the project. Keep it up to date. People will look at this know who the maintainers are to contact about any problems. 
+**[CONTRIBUTORS.md.md](CONTRIBUTORS.md.md)** - This list all maintainers and contributors who have made a positive impact on the project. Keep it up to date. People will look at this know who the maintainers are to contact about any problems. 
 
 **[DESIGN.md](docs/DESIGN.md)** - This document describes the architecure of the project. It should provide both a brief description of the entire project and a more in depth guide for each component. It's goal is to help anyone new to the project understand how it works. 
 
