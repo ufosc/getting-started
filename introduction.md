@@ -67,20 +67,53 @@ The officers are listed below
 	- Matthew Booe
 - Vice President: Assists in presidents responsibilities and in charge of tech talks. 
 	- Will Owens
-- 
+- Treasure: Manages the budget, purchases resources, and procures funding.
+	- Greg Fussell
+- Secretary: Records minutes, reviews and keeps documentation up-to-date, and assists other officers.
+	- Josh Hew
+- External Relations Chair: Works with other clubs to do joint events and keep members up-to-date on other organizations.
+	- Joe Komskis
+- Social Chair: Schedules meetings, sends out announcements, and creates social media posts.
+	- Anthony Rossello 
+- Project Leads: Manages goals and tasks for projects, makes technical decisions, and serves as a resource for their project.
+	- Name, Project
 
 ### Projects
 
+Active projects are official club projects that have an assigned project lead, are given club resources, and are the first projects mentioned to new members. You can find a list of active projects above under the Project Leads section. 
+
+If you have a project idea, add it to our list of [projects][Project List] and pitch it to other members at a meeting. If you get enough interest, we can make it an active project!
+
+You aren't locked into a project either. Feel free to work around and see what interest you. Talk to the project lead and they'll find something for you to do.
+
 ## What's Next
 
-### Learn About Open Source
+### Learn about Open Source
+
+Open Source (and Free Software) is the philosophy that the source code for an program should be: free to study, free to modify, and free to share with modifications with everyone. It encourages open collaboration with everyone, and produces software (though the philosophy can apply to other fields) that is usually higher quality, more secure, and privacy conscious. For software to be open source, it must have an appropriate license included with it. More on [licenses here][License Resource].
 
 ### Working on a Project
 
+We use Git to manage all of our projects. It makes it easy to track code changes and have multiple people work on a project at the same time. Plus it's open source! Find out more about Git and how we use it on GitHub [here][Git Resource]. 
+
+In addition to the License file, you may see a lot of other files that aren't code on a project repository. This [explanation][] should help describe the different types of files you'll typically find in an open source project. If you're creating a project, copying the [project template][] will start you off with all the basic documentation you'll need. 
+
+<!-- Git, GitFlow, Github, , style guide, things to look for, starting a project 
+ -->
 ### Useful Things to Know
+
+<!-- markdown
+other tech
+club documents
+Links to things -->
 
 <!--References-->
 [UFOSC Email]: mailto:gator.osc@gmail.com "Official UFOSC email"
 [Listserv Sign Up]: https://docs.google.com/forms/d/e/1FAIpQLSfeU1RSGQWOZfvQXLrUGnDAKvVAqO7gc3TZySmN1CFhCM9uog/viewform?c=0&w=1 "UFOSC Listserv sign up"
 [UFOSC Facebook]: https://www.facebook.com/groups/ufosc/ "Official UFOSC Facebook"
 [UFOSC Slack]: https://ufosc.slack.com/ "Official UFOSC Slack"
+[Project List]: https://github.com/ufosc/club-documents/blob/master/Project-Ideas.md "UFOSC project list"
+[License Resource]: https://github.com/ufosc/resources/blob/master/resources/licenses.md "UFOSC licenses resources page"
+[Git Resource]: https://github.com/ufosc/resources/tree/master/resources/git "UFOSC Git resource page"
+[Explanation]: https://github.com/ufosc/resources/blob/master/project-template/explanation.md "Explanation for the files in an open source repository"
+[Project Template]: https://github.com/ufosc/resources/tree/master/project-template "Template for all the important files for an open source project"
