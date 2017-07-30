@@ -18,9 +18,9 @@ This is to explain what each part of the project template is. Any items in the o
 
 **[TODO.md](docs/TODO.md)** - This list planned features with links to relevant issues. Its a good spot for people to check to see the project road map.
 
-**[ISSUE_TEMPLATE.md](.github/ISSUE_TEMPLATE.md)** - This template appears when someone creates a new issue. It provides an outline for what information is needed for different types of issues.
+**[ISSUE_TEMPLATE.md](docs/ISSUE_TEMPLATE.md)** - This template appears when someone creates a new issue. It provides an outline for what information is needed for different types of issues.
 
-**[PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)** - This template appears when someone creates a new pull request. It provides an outline for what information is needed to know what the pull request is for. 
+**[PULL_REQUEST_TEMPLATE.md](docs/PULL_REQUEST_TEMPLATE.md)** - This template appears when someone creates a new pull request. It provides an outline for what information is needed to know what the pull request is for. 
 
 **[.gitignore](.gitignore)** - This file tells Git to ignore the specified files. These files will not be pushed to any repository. 
 

@@ -65,7 +65,7 @@ We have three types of meetings. Check our [Facebook][UFOSC Facebook] for times 
 The officers are listed below
 - President: Keeps everything running, overseas projects and administrative tasks. 
 	- Matthew Booe
-- Vice President: Assists in presidents responsibilities and in charge of tech talks. 
+- Vice President: Assists with president's responsibilities and in charge of tech talks. 
 	- Will Owens
 - Treasure: Manages the budget, purchases resources, and procures funding.
 	- Greg Fussell
@@ -96,24 +96,25 @@ Open Source (and Free Software) is the philosophy that the source code for an pr
 
 We use Git to manage all of our projects. It makes it easy to track code changes and have multiple people work on a project at the same time. Plus it's open source! Find out more about Git and how we use it on GitHub [here][Git Resource]. 
 
-In addition to the License file, you may see a lot of other files that aren't code on a project repository. This [explanation][] should help describe the different types of files you'll typically find in an open source project. If you're creating a project, copying the [project template][] will start you off with all the basic documentation you'll need. 
+Before working on a project checkout their CONTRIBUTING file. It will explain where you can: find issues, ask questions, read documentation, how to style code, and how to submit changes. You can also ask the project lead for help. 
 
-<!-- Git, GitFlow, Github, , style guide, things to look for, starting a project 
- -->
+In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other files that aren't code in a project repository. This [explanation][Explanation] should help describe the different types of files you'll typically find in an open source project. If you're creating a project, copying the [project template][Project Template] will start you off with all the basic documentation you'll need. 
+
 ### Useful Things to Know
 
-<!-- markdown
-other tech
-club documents
-Links to things -->
+- [Markdown][Markdown Resource] is the format we write our documentation files (like this one in). It's an easy way to add styling to plain text.
+- [Resources][UFOSC Resources] is a great place to find information about the club and different technologies we use. It also has our general coding guidelines and project template. It's open source, so feel free to add to it! 
+- [Club Documents][UFOSC Club Documents] is where documents related to running the club are. Such as our constitution, officer duties, and proposals. Check it out if you are interested in becoming an officer.
 
 <!--References-->
-[UFOSC Email]: mailto:gator.osc@gmail.com "Official UFOSC email"
-[Listserv Sign Up]: https://docs.google.com/forms/d/e/1FAIpQLSfeU1RSGQWOZfvQXLrUGnDAKvVAqO7gc3TZySmN1CFhCM9uog/viewform?c=0&w=1 "UFOSC Listserv sign up"
-[UFOSC Facebook]: https://www.facebook.com/groups/ufosc/ "Official UFOSC Facebook"
-[UFOSC Slack]: https://ufosc.slack.com/ "Official UFOSC Slack"
-[Project List]: https://github.com/ufosc/club-documents/blob/master/Project-Ideas.md "UFOSC project list"
-[License Resource]: https://github.com/ufosc/resources/blob/master/resources/licenses.md "UFOSC licenses resources page"
-[Git Resource]: https://github.com/ufosc/resources/tree/master/resources/git "UFOSC Git resource page"
 [Explanation]: https://github.com/ufosc/resources/blob/master/project-template/explanation.md "Explanation for the files in an open source repository"
+[Git Resource]: https://github.com/ufosc/resources/tree/master/resources/git "UFOSC Git resource page"
+[License Resource]: https://github.com/ufosc/resources/blob/master/resources/licenses.md "UFOSC licenses resources page"
+[Listserv Sign Up]: https://docs.google.com/forms/d/e/1FAIpQLSfeU1RSGQWOZfvQXLrUGnDAKvVAqO7gc3TZySmN1CFhCM9uog/viewform?c=0&w=1 "UFOSC Listserv sign up"
+[Project List]: https://github.com/ufosc/club-documents/blob/master/Project-Ideas.md "UFOSC project list"
 [Project Template]: https://github.com/ufosc/resources/tree/master/project-template "Template for all the important files for an open source project"
+[UFOSC Club Documents]: https://github.com/ufosc/club-documents "Official club documents"
+[UFOSC Email]: mailto:gator.osc@gmail.com "Official UFOSC email"
+[UFOSC Facebook]: https://www.facebook.com/groups/ufosc/ "Official UFOSC Facebook"
+[UFOSC Resources]: https://github.com/ufosc/resources "Official club resources"
+[UFOSC Slack]: https://ufosc.slack.com/ "Official UFOSC Slack"

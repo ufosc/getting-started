@@ -4,7 +4,7 @@ Thank you for helping out with the UFOSC's **project name**!
 
 Following these guidelines helps us keep good project workflow. We appreciate you working with us on it. 
 
-Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our community expectations. Check out our [slack](http://ufosc.slack.com/) for any additional questions or just to hangout! Look at our [AUTHORS.md](AUTHORS.md) for a list of maintainers and contributors.
+Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our community expectations. Check out our [slack](http://ufosc.slack.com/) for any additional questions or just to hangout! Look at our [CONTRIBUTORS.md](CONTRIBUTORS.md) for a list of maintainers and contributors.
 
 ## How to help?
 
