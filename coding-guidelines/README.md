@@ -1,8 +1,8 @@
 # Coding Guidelines 
 
-Each language has file associated with our guidelines and an example following them. Many will also list any EditorConfig setting we use.
-
 The goal behind most of the guidelines is to keep code simple and readable. This makes collaborating on projects easier and causes less issues down the road. 
+
+Below are links to good examples and ideas about coding. They aren't rules by any means, but they may prove insightful to you.
 
 ## Resources  
 

@@ -1,4 +1,4 @@
-# UF Open Source Club Introduction (Work in Progress)
+# UF Open Source Club Introduction
 
 Welcome! This file exists to introduce people to what the UFOSC is, how UFOSC works, and where to find additional resources. 
 
@@ -26,11 +26,11 @@ As always, if you spot an issue or want to improve something, please make a pull
 
 UFOSC is the Open Source Club at the University of Florida. We are a community of makers, who want to solve problems and improve our world using open source projects.
 
-We were founded in the Spring of 2016 as an official student organization at UF. <!--The club is also a partnered Special Interest Group of the UF ACM chapter. -->
+We were founded in the Spring of 2016 as an official student organization at UF. The club is also a partnered Special Interest Group of the UF ACM chapter.
 
 ### What does the UFOSC do?
 
-The UFOSC is first and foremost, about working on open source projects. Student choose what they want to work on, wether it be a totally new idea, or an existing project. Our meetings create a constructive atmosphere to help students collaborate in teams to grow their knowledge and skills!
+The UFOSC is first and foremost, about working on open source projects. Student choose what they want to work on, whether it be a totally new idea, or an existing project. Our meetings create a constructive atmosphere to help students collaborate in teams to grow their knowledge and skills!
 
 We also preform technical talks on various open source topics. Anything from Linux to Typescript. Students are encouraged to submit ideas or even volunteer to give a talk. 
 
@@ -54,11 +54,10 @@ Sign up for our [email list][Listserv Sign Up] our [Facebook group][UFOSC Facebo
 
 ### Meetings
 
-We have three types of meetings. Check our [Facebook][UFOSC Facebook] for times and locations.
+We have a couple types of meetings. Check our [Facebook][UFOSC Facebook] for times and locations.
 
 1. **Casual Coding Sessions** are laid back meetings. You can work on projects, homework, or just hang out! They happen twice weekly. It's a great time to find people with similar interest and create something cool. 
-2. **General Body Meetings** (GBM) each feature a tech talk on an open source technology in addition to a brief round of project updates. This is great for anyone to come in and learn. They happen every other week alternating with Development Sessions.
-3. **Development Sessions** start off with a brief round of project updates just like GBMs, before breaking off into different project groups. This is where things like: difficult challenges are worked out, responsibilities are delegated, and milestones decided on. They happen every other week alternating with GBMs.
+2. **General Body Meetings** (GBMs) open up with a brief round of project updates. Following that, there is a tech talk on an open source technology. This is great for anyone to come in and learn. They happen every other week.
 
 ### Organization
 
@@ -71,10 +70,10 @@ The officers are listed below
 	- Greg Fussell
 - Secretary: Records minutes, reviews and keeps documentation up-to-date, and assists other officers.
 	- Josh Hew
-- External Relations Chair: Works with other clubs to do joint events and keep members up-to-date on other organizations.
-	- Joe Komskis
 - Social Chair: Schedules meetings, sends out announcements, and creates social media posts.
 	- Anthony Rossello 
+- External Relations Chair: Works with other clubs to do joint events and keep members up-to-date on other organizations.
+	- Joe Komskis
 - Project Leads: Manages goals and tasks for projects, makes technical decisions, and serves as a resource for their project.
 	- Name, Project
 
@@ -90,7 +89,7 @@ You aren't locked into a project either. Feel free to work around and see what i
 
 ### Learn about Open Source
 
-Open Source (and Free Software) is the philosophy that the source code for an program should be: free to study, free to modify, and free to share with modifications with everyone. It encourages open collaboration with everyone, and produces software (though the philosophy can apply to other fields) that is usually higher quality, more secure, and privacy conscious. For software to be open source, it must have an appropriate license included with it. More on [licenses here][License Resource].
+Open Source (and Free Software) is the philosophy that the source code for an program should be: free to study, free to modify, and free to share (plus modifications) with everyone. It encourages open collaboration, pushes technological advancements, and produces software (though it can apply to other fields) that is usually higher quality, more secure, and privacy conscious. For software to be open source, it must have an appropriate license included with it. More on [licenses here][License Resource].
 
 ### Working on a Project
 
@@ -98,7 +97,7 @@ We use Git to manage all of our projects. It makes it easy to track code changes
 
 Before working on a project checkout their CONTRIBUTING file. It will explain where you can: find issues, ask questions, read documentation, how to style code, and how to submit changes. You can also ask the project lead for help. 
 
-In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other files that aren't code in a project repository. This [explanation][Explanation] should help describe the different types of files you'll typically find in an open source project. If you're creating a project, copying the [project template][Project Template] will start you off with all the basic documentation you'll need. 
+In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other files that aren't code in a project repository. This [explanation][Explanation] should help describe the different types of files you'll typically find in out open source projects. If you're creating a project, copying the [project template][Project Template] will start you off with all the basic documentation you'll need. 
 
 ### Useful Things to Know
 
@@ -116,5 +115,6 @@ In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other fil
 [UFOSC Club Documents]: https://github.com/ufosc/club-documents "Official club documents"
 [UFOSC Email]: mailto:gator.osc@gmail.com "Official UFOSC email"
 [UFOSC Facebook]: https://www.facebook.com/groups/ufosc/ "Official UFOSC Facebook"
+[Markdown Resource]: https://github.com/ufosc/resources/tree/master/resources/markdown "UFOSC Markdown resource page"
 [UFOSC Resources]: https://github.com/ufosc/resources "Official club resources"
 [UFOSC Slack]: https://ufosc.slack.com/ "Official UFOSC Slack"

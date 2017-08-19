@@ -32,8 +32,8 @@ public void myFunction(int arg)
 	- When breaking up a line return after commas, and before (+, -, ==, &&, etc).
 
 ```c++
-if (bar == 5 || bar == 12 || bar == 98 ||
-		bar == 120 || bar == 177 || var == 180)
+if (bar == 5 || bar == 12 || bar == 98 
+		|| bar == 120 || bar == 177 || var == 180)
 {
 	foo = 2;
 }
@@ -71,7 +71,7 @@ for (int i = 0; i < count; i++)
 	- Avoid deep nesting
 
 
-## Example
+## Extended Example
 
 ```c++
 /**

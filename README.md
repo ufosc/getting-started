@@ -4,11 +4,15 @@ This is the one stop shop for any project resource. This repository includes lin
 
 ## Getting Started
 
-The resources folder is divided into different technologies. Though most will be a single file with a short explanation and links, things with more information will have their own folder.
+For an introduction to the club, [click here](introduction.md).
 
-You can copy the project-template folder to get up and running with a new project quickly. Check the [explanation.md](https://github.com/ufosc/resources/project-template/explanation.md) inside the directory for a more detailed explanation of what's all included. Be sure to remove this once it's all set up. 
+The [resources](resources/README.md) folder is divided into different technologies. Though most will be a single file with a short explanation and links, things with more information will have their own folder.
 
-The coding-guidelines has a set of general guidelines for each language. Each project is free to adjust these, so check there for specifics. There is also a [best-practices.md](https://github.com/ufosc/resources/coding-guidelines/best-practices.md) that goes over good language agnostic coding practices. 
+You can copy the [project-template](project-template/explanation.md) folder to get up and running with a new project quickly. Check the [explanation.md](https://github.com/ufosc/resources/project-template/explanation.md) inside the directory for a more detailed explanation of what's all included. Be sure to remove this once it's all set up. 
+
+The [coding-guidelines](coding-guidelines/README.md) has a set of general guidelines for each language. Each project is free to adjust these, so check there for specifics. There is also a [best-practices.md](https://github.com/ufosc/resources/coding-guidelines/best-practices.md) that goes over good language agnostic coding practices. 
+
+Finally, there is a [presentation folder](presentations/README.md) that holds links to past presentations. 
 
 ## Contributing
 
