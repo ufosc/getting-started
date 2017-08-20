@@ -72,8 +72,12 @@ Close #X
 
 ## Resources 
 
+- [Git Reset](https://stackoverflow.com/questions/2530060/can-you-explain-what-git-reset-does-in-plain-english#2530073)
 - [Git Reset Differences](https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard)
+- [Git Reflog](http://gitready.com/intermediate/2009/02/09/reflog-your-safety-net.html)
 - [How to undo the last commit](https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit)
+- [Git Rebase](http://www.jarrodspillers.com/git/2009/08/19/git-merge-vs-git-rebase-avoiding-rebase-hell.html)
 - [Git Rebase Info](https://www.linux.com/learn/how-rebase-git)
+- [Git Squash](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
 - [Making a new repo from an old branch](https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo)
 - [Password Caching](https://help.github.com/articles/caching-your-github-password-in-git/#platform)
