@@ -48,7 +48,7 @@ Though we primarily work on open source software, you don't have to be a program
 
 ### How to Join
 
-Sign up for our [email list][Listserv Sign Up] our [Facebook group][UFOSC Facebook] for meeting announcements and join our [slack][UFOSC Slack] to communicate with other members and ask questions. And of course, come to our meetings! Introduce yourself, work on projects, and have fun.
+Sign up for our **[email list][Listserv Sign Up]** our **[Facebook group][UFOSC Facebook]** for meeting announcements and join our **[Slack][UFOSC Slack]** to communicate with other members and ask questions. And of course, come to our meetings! Introduce yourself, work on projects, and have fun.
 
 ## The Basics
 
