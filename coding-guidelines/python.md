@@ -1,14 +1,11 @@
-Coding Style and Guidelines
-===========================
+# Coding Style and Guidelines
 
-Introduction
-------------
+## Introduction
 This document serves to give a brief overview of the accepted coding style for python as stated in the PEP 8 style guide. For those who would like 
 more information about accepted Python code style practices, consult the 
 Additional Resources section at the bottom of this document. Now without further ado, let's get started.
 
-Code Layout
----------------
+## Code Layout
 
 ### Identation
 Use 4 spaces per indentation level. Spaces are the preferred indentation
@@ -48,12 +45,11 @@ Avoid wildcard imports (i.e. `from <module> import *`); they pollute the
 namespace.
 
 Imports should be grouped in the following order:
-1. standard library imports
-2. related third party imports
-3. local application/library specific imports
+1. Standard library imports
+2. Related third party imports
+3. Local application/library specific imports
 
-Comments
---------
+## Comments
 Comments should be written in complete sentences. The first word in the
 sentence is capitalized, unless the first word is an identifier that 
 begins with a lower case letter.
@@ -95,12 +91,11 @@ x = x + 1	# Compensate for border.
 
 ```
 ### Documentation Strings
-Docstrings are a extremely useful form of comment and they should
-be used liberally. It is good practice to write docstrings for all
-public modules, functions, classes, and methods.
-
 Commonly called docstrings.
 
+Docstrings provide an easy way to write documentation for Python modules, 
+classes, and functions. It is good practice to write docstrings for all
+public modules, functions, classes, and methods.  
 
 #### Examples
 Single-line docstrings should be used for obvious cases.
@@ -124,8 +119,7 @@ def complex(real=0.0, imag=0.0):
 **Note:** For a much more in depth look at docstring conventions and
 uses, see [PEP 257-Docstring Conventions](https://www.python.org/dev/peps/pep-0257/).
 
-Naming Conventions
-------------------
+## Naming Conventions
 
 ### Class Names
 Class names should use the CapsWords convention.
@@ -147,8 +141,7 @@ words. i.e `MAX_OVERFLOW`.
 Variables should be lowercase, with words separated by underscores.
 i.e `jeff_apples = 16`
 
-Additional Resources
---------------------
+## Additional Resources
 These are a collection of additional resources that do an excellent job
 describing the "pythonic" way of writing code.
 
