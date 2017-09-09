@@ -6,5 +6,5 @@ Check out the example file for a walk-through of functionality and syntax. The l
 
 ## Resources 
 
-- [Original Markdown Project](https://daringfireball.net/projects/markdown/syntax#html)
+- [Original Markdown Project](https://daringfireball.net/projects/markdown/syntax)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
