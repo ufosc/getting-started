@@ -81,3 +81,5 @@ Close #X
 - [Git Squash](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html)
 - [Making a new repo from an old branch](https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo)
 - [Password Caching](https://help.github.com/articles/caching-your-github-password-in-git/#platform)
+- [Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/) <!-- Maybe not 3, keep all useful commit, not a single feature commit. Look into merge --no-ff instead. Or the below article -->
+- [OneFlow Method](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
