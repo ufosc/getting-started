@@ -1,6 +1,6 @@
 # TypeScript 
 
-TypeScript is a programming language designed to replace JavaScript. It is a typed super-set of JavaScript. This means any valid JavaScript is valid TypeScript. It does more than that though, it adds real classes, types, static typing (it tells you where the error is), and more. It is compiled down to the version of JavaScript you specify, so it can run in browsers. 
+TypeScript is a programming language designed to replace [JavaScript](javascript.md). It is a typed super-set of JavaScript. This means any valid JavaScript is valid TypeScript. It does more than that though, it adds real classes, types, static typing (it tells you where the error is), and more. It is compiled down to the version of JavaScript you specify, so it can run in browsers. 
 
 ## Resources 
 
