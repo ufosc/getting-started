@@ -22,7 +22,7 @@
 **code to run**
 ```
 
-**End with an example of getting some data out of the system or using it for a little demo**
+**End with an example of getting some data out of the system or using it for a little demo.**
 
 ### Compiling 
 
@@ -32,7 +32,7 @@
 **code to run**
 ```
 
-**End with an example of getting some data out of the system or using it for a little demo**
+**End with an example of getting some data out of the system or using it for a little demo.**
 
 ## Deployment
 
@@ -49,4 +49,4 @@ Please read **[CONTRIBUTING.md](CONTRIBUTING.md)** for how to work on the projec
 
 ## License
 
-This project is licensed under the **MIT** License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the **MIT** License - see the [LICENSE.md](LICENSE.md) file for details.
