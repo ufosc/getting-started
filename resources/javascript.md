@@ -11,3 +11,4 @@ Many people use JavaScript frameworks to simplify certain task or solve common p
 - [Guide to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Professional Video Tutorial](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) (you can sign in with your ufl email)
 - [Each element of JavaScript](https://www.w3schools.com/js/default.asp)
+- [FreeCodeCamp's Javascript unit](https://www.freecodecamp.org/challenges/comment-your-javascript-code)
