@@ -8,6 +8,7 @@ In addition to using the terminal, you can write bash scripts. They are similar 
 
 ## Resources 
 
+- [Overview of Bash and Unix Commands](http://info.ee.surrey.ac.uk/Teaching/Unix/index.html)
 - [Terminal and Bash Fundamentals](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [Bash Examples](https://github.com/OSUOSC/command-line-introduction)  
 - [Bash Scripting](https://linuxconfig.org/bash-scripting-tutorial)
