@@ -2,7 +2,9 @@
 
 Welcome! This file exists to introduce people to what the UFOSC is, how UFOSC works, and where to find additional resources. 
 
-As always, if you spot an issue or want to improve something, please make a pull request!
+As always, if you spot an issue or want to improve something, please make a pull request! 
+
+The corresponding slide presentation is [here](https://docs.google.com/presentation/d/1ngDmJzquy2kqAAJdX97CLloR8C2EcAb_Sp6I5zxFHZY/edit?usp=sharing).
 
 ## Table of Contents
 
@@ -26,7 +28,7 @@ As always, if you spot an issue or want to improve something, please make a pull
 
 UFOSC is the Open Source Club at the University of Florida. We are a community of makers, who want to solve problems and improve our world using open source projects.
 
-We were founded in the Spring of 2016 as an official student organization at UF. The club is also a partnered Special Interest Group of the UF ACM chapter.
+We were founded in the Spring of 2016 as an official student organization at UF. The club is also a partnered Special Interest Group of the UF ACM chapter. In the summer of 2017 we helped start the [Mozilla Open Source Student Network](https://opensource.mozilla.community/), a collection of university open source clubs across the country who help students contribute to open source.
 
 ### What does the UFOSC do?
 
@@ -58,6 +60,7 @@ We have a couple types of meetings. Check our [Facebook][UFOSC Facebook] for tim
 
 1. **Casual Coding Sessions** are laid back meetings. You can work on projects, homework, or just hang out! They happen twice weekly. It's a great time to find people with similar interest and create something cool. 
 2. **General Body Meetings** (GBMs) open up with a brief round of project updates. Following that, there is a tech talk on an open source technology. This is great for anyone to come in and learn. They happen every other week.
+3. **Code Jams** are a once a month workshop and hack sessions. Spend the morning of Saturday learning about an open source technology then in the afternoon work on existing open source projects or start you own!
 
 ### Organization
 
@@ -75,7 +78,7 @@ The officers are listed below
 - External Relations Chair: Works with other clubs to do joint events and keep members up-to-date on other organizations.
 	- Joe Komskis
 - Project Leads: Manages goals and tasks for projects, makes technical decisions, and serves as a resource for their project.
-	- Name, Project
+	- Alejandro Santacoloma, Marston vs West Video Game
 
 ### Projects
 
