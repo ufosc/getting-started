@@ -1,4 +1,4 @@
-# UF Open Source Club Resources 
+# Open Source Club Resources 
 
 This is the one stop shop for any project resource. This repository includes links to guides on various topics, templates for quickly setting up a project, coding guidelines for various languages, and other useful info. 
 
