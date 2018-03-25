@@ -1,6 +1,6 @@
-# UF Open Source Club Introduction
+# Open Source Club Introduction
 
-Welcome! This file exists to introduce people to what the UFOSC is, how UFOSC works, and where to find additional resources. 
+Welcome! This file exists to introduce people to what the OSC is, how OSC works, and where to find additional resources. 
 
 As always, if you spot an issue or want to improve something, please make a pull request! 
 
@@ -8,10 +8,10 @@ The corresponding slide presentation is [here](https://docs.google.com/presentat
 
 ## Table of Contents
 
-- [About UFOSC](#about-ufosc)
-	- [What is the UFOSC?](#what-is-the-ufosc)
-	- [What does UFOSC do?](#what-does-the-ufosc-do)
-	- [Who's the UFOSC for?](#whos-the-ufosc-for)
+- [About OSC](#about-osc)
+	- [What is the OSC?](#what-is-the-osc)
+	- [What does OSC do?](#what-does-the-osc-do)
+	- [Who's the OSC for?](#whos-the-osc-for)
 	- [How to Join](#how-to-join)
 - [The Basics](#the-basics)
 	- [Meetings](#meetings)
@@ -22,23 +22,23 @@ The corresponding slide presentation is [here](https://docs.google.com/presentat
 	- [Working on a Project](#working-on-a-project)
 	- [Useful Things to Know](#useful-things-to-know)
 
-## About UFOSC
+## About OSC
 
-### What is the UFOSC?
+### What is the OSC?
 
-UFOSC is the Open Source Club at the University of Florida. We are a community of makers, who want to solve problems and improve our world using open source projects.
+OSC is the Open Source Club at the University of Florida. We are a community of makers, who want to solve problems and improve our world using open source projects.
 
 We were founded in the Spring of 2016 as an official student organization at UF. The club is also a partnered Special Interest Group of the UF ACM chapter. In the summer of 2017 we helped start the [Mozilla Open Source Student Network](https://opensource.mozilla.community/), a collection of university open source clubs across the country who help students contribute to open source.
 
-### What does the UFOSC do?
+### What does the OSC do?
 
-The UFOSC is first and foremost, about working on open source projects. Student choose what they want to work on, whether it be a totally new idea, or an existing project. Our meetings create a constructive atmosphere to help students collaborate in teams to grow their knowledge and skills!
+The OSC is first and foremost, about working on open source projects. Student choose what they want to work on, whether it be a totally new idea, or an existing project. Our meetings create a constructive atmosphere to help students collaborate in teams to grow their knowledge and skills!
 
 We also preform technical talks on various open source topics. Anything from Linux to Typescript. Students are encouraged to submit ideas or even volunteer to give a talk. 
 
-Collaborating with other clubs is another one of our goals. We love to work with others on presentations, events, or projects! If you are interested in working together email [gator.osc@gmail.com][UFOSC Email].
+Collaborating with other clubs is another one of our goals. We love to work with others on presentations, events, or projects! If you are interested in working together email [gator.osc@gmail.com][OSC Email].
 
-### Who's the UFOSC for?
+### Who's the OSC for?
 
 If you:
 - Are enthusiastic (or want to be enthusiastic) about open source 
@@ -50,13 +50,13 @@ Though we primarily work on open source software, you don't have to be a program
 
 ### How to Join
 
-Sign up for our **[email list][Listserv Sign Up]** our **[Facebook group][UFOSC Facebook]** for meeting announcements and join our **[Slack][UFOSC Slack]** to communicate with other members and ask questions. And of course, come to our meetings! Introduce yourself, work on projects, and have fun.
+Sign up for our **[email list][Listserv Sign Up]** our **[Facebook group][OSC Facebook]** for meeting announcements and join our **[Slack][OSC Slack]** to communicate with other members and ask questions. And of course, come to our meetings! Introduce yourself, work on projects, and have fun.
 
 ## The Basics
 
 ### Meetings
 
-We have a couple types of meetings. Check our [Facebook][UFOSC Facebook] for times and locations.
+We have a couple types of meetings. Check our [Facebook][OSC Facebook] for times and locations.
 
 1. **Casual Coding Sessions** are laid back meetings. You can work on projects, homework, or just hang out! They happen twice weekly. It's a great time to find people with similar interest and create something cool. 
 2. **General Body Meetings** (GBMs) open up with a brief round of project updates. Following that, there is a tech talk on an open source technology. This is great for anyone to come in and learn. They happen every other week.
@@ -105,19 +105,19 @@ In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other fil
 ### Useful Things to Know
 
 - [Markdown][Markdown Resource] is the format we write our documentation files (like this one in). It's an easy way to add styling to plain text.
-- [Resources][UFOSC Resources] is a great place to find information about the club and different technologies we use. It also has our general coding guidelines and project template. It's open source, so feel free to add to it! 
-- [Club Documents][UFOSC Club Documents] is where documents related to running the club are. Such as our constitution, officer duties, and proposals. Check it out if you are interested in becoming an officer.
+- [Resources][OSC Resources] is a great place to find information about the club and different technologies we use. It also has our general coding guidelines and project template. It's open source, so feel free to add to it! 
+- [Club Documents][OSC Club Documents] is where documents related to running the club are. Such as our constitution, officer duties, and proposals. Check it out if you are interested in becoming an officer.
 
 <!--References-->
 [Explanation]: https://github.com/ufosc/resources/blob/master/project-template/explanation.md "Explanation for the files in an open source repository"
-[Git Resource]: https://github.com/ufosc/resources/tree/master/resources/git "UFOSC Git resource page"
-[License Resource]: https://github.com/ufosc/resources/blob/master/resources/licenses.md "UFOSC licenses resources page"
-[Listserv Sign Up]: https://docs.google.com/forms/d/e/1FAIpQLSfeU1RSGQWOZfvQXLrUGnDAKvVAqO7gc3TZySmN1CFhCM9uog/viewform?c=0&w=1 "UFOSC Listserv sign up"
-[Project List]: https://github.com/ufosc/club-documents/blob/master/Project-Ideas.md "UFOSC project list"
+[Git Resource]: https://github.com/ufosc/resources/tree/master/resources/git "OSC Git resource page"
+[License Resource]: https://github.com/ufosc/resources/blob/master/resources/licenses.md "OSC licenses resources page"
+[Listserv Sign Up]: https://docs.google.com/forms/d/e/1FAIpQLSfeU1RSGQWOZfvQXLrUGnDAKvVAqO7gc3TZySmN1CFhCM9uog/viewform?c=0&w=1 "OSC Listserv sign up"
+[Project List]: https://github.com/ufosc/club-documents/blob/master/Project-Ideas.md "OSC project list"
 [Project Template]: https://github.com/ufosc/resources/tree/master/project-template "Template for all the important files for an open source project"
-[UFOSC Club Documents]: https://github.com/ufosc/club-documents "Official club documents"
-[UFOSC Email]: mailto:gator.osc@gmail.com "Official UFOSC email"
-[UFOSC Facebook]: https://www.facebook.com/groups/ufosc/ "Official UFOSC Facebook"
-[Markdown Resource]: https://github.com/ufosc/resources/tree/master/resources/markdown "UFOSC Markdown resource page"
-[UFOSC Resources]: https://github.com/ufosc/resources "Official club resources"
-[UFOSC Slack]: https://ufosc.slack.com/ "Official UFOSC Slack"
+[OSC Club Documents]: https://github.com/ufosc/club-documents "Official club documents"
+[OSC Email]: mailto:gator.osc@gmail.com "Official OSC email"
+[OSC Facebook]: https://www.facebook.com/groups/ufosc/ "Official OSC Facebook"
+[Markdown Resource]: https://github.com/ufosc/resources/tree/master/resources/markdown "OSC Markdown resource page"
+[OSC Resources]: https://github.com/ufosc/resources "Official club resources"
+[OSC Slack]: https://ufosc.slack.com/ "Official OSC Slack"

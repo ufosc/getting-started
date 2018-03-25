@@ -1,6 +1,6 @@
 # Contributing to Resources 
 
-Thank you for helping out with the UFOSC's resources!
+Thank you for helping out with the Open Source Clubs's resources!
 
 Please check out our [slack](http://ufosc.slack.com/) for any additional questions or just to hangout! 
 

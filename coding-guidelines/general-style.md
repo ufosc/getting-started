@@ -76,7 +76,7 @@ for (int i = 0; i < count; i++)
 ```c++
 /**
  * "Foo bar" program, provides a useful example for the
- * UFOSC coding guidelines.
+ * OSC coding guidelines.
  */
 
 #include <iostream>

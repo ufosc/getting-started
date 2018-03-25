@@ -46,7 +46,7 @@ Copy the url from the repository you want on your computer.
 **git clone** - This will create a copy of the designated repository on your computer.
 
 ```
-git clone https://github.com/UFOSC/practice-repo.git
+git clone https://github.com/ufosc/practice-repo.git
 ```
 
 ### Updating

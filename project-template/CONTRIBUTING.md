@@ -1,6 +1,6 @@
 # Contributing to **Project Name**
 
-Thank you for helping out with the UFOSC's **project name**!
+Thank you for helping out with the Open Source Clubs's **project name**!
 
 Following these guidelines helps us keep good project workflow. We appreciate you working with us on it. 
 
