@@ -10,6 +10,7 @@ Also learn about our Git workflow using [GitFlow][GutHub GitFlow]! It'll describ
 
 ## Git Resources
 
+- [Official GitHub Course](https://lab.github.com/)
 - [Interactive Github Tutorial](https://www.codeschool.com/courses/try-git)
 - [Simple Gitflow][GutHub GitFlow]
 - [In Depth Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)
