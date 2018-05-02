@@ -113,7 +113,7 @@ In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other fil
 [Git Resource]: https://github.com/ufosc/resources/tree/master/resources/git "OSC Git resource page"
 [License Resource]: https://github.com/ufosc/resources/blob/master/resources/licenses.md "OSC licenses resources page"
 [Listserv Sign Up]: https://docs.google.com/forms/d/e/1FAIpQLSfeU1RSGQWOZfvQXLrUGnDAKvVAqO7gc3TZySmN1CFhCM9uog/viewform?c=0&w=1 "OSC Listserv sign up"
-[Project List]: https://github.com/ufosc/club-documents/blob/master/Project-Ideas.md "OSC project list"
+[Project List]: https://github.com/ufosc/club-documents/blob/master/Club-Project-Ideas.md "OSC project list"
 [Project Template]: https://github.com/ufosc/resources/tree/master/project-template "Template for all the important files for an open source project"
 [OSC Club Documents]: https://github.com/ufosc/club-documents "Official club documents"
 [OSC Email]: mailto:gator.osc@gmail.com "Official OSC email"
