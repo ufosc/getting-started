@@ -69,7 +69,7 @@ The officers are listed below
 	- Will Owens
 - Vice President: Assists with president's responsibilities and in charge of tech talks.
 	- Alejandro Santacoloma
-- Treasure: Manages the budget, purchases resources, and procures funding.
+- Treasurer: Manages the budget, purchases resources, and procures funding.
 	- Paolo Garcia
 - Secretary: Records minutes, reviews and keeps documentation up-to-date, and assists other officers.
 	- Dylan Alverez
