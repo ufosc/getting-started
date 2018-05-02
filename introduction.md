@@ -65,18 +65,18 @@ We have a couple types of meetings. Check our [Facebook][OSC Facebook] for times
 ### Organization
 
 The officers are listed below
-- President: Keeps everything running, overseas projects and administrative tasks. 
-	- Matthew Booe
-- Vice President: Assists with president's responsibilities and in charge of tech talks. 
+- President: Keeps everything running, overseas projects and administrative tasks.
 	- Will Owens
+- Vice President: Assists with president's responsibilities and in charge of tech talks.
+	- Alejandro Santacoloma
 - Treasure: Manages the budget, purchases resources, and procures funding.
-	- Greg Fussell
+	- Paolo Garcia
 - Secretary: Records minutes, reviews and keeps documentation up-to-date, and assists other officers.
-	- Josh Hew
+	- Dylan Alverez
 - Social Chair: Schedules meetings, sends out announcements, and creates social media posts.
-	- Anthony Rossello 
+	- Hunter Jarrell
 - External Relations Chair: Works with other clubs to do joint events and keep members up-to-date on other organizations.
-	- Joe Komskis
+	- Jing Low
 - Project Leads: Manages goals and tasks for projects, makes technical decisions, and serves as a resource for their project.
 	- Alejandro Santacoloma, Marston vs West Video Game
 
