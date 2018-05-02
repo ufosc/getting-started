@@ -65,18 +65,18 @@ We have a couple types of meetings. Check our [Facebook][OSC Facebook] for times
 ### Organization
 
 The officers are listed below
-- President: Keeps everything running, overseas projects and administrative tasks. 
-	- Matthew Booe
-- Vice President: Assists with president's responsibilities and in charge of tech talks. 
+- President: Keeps everything running, overseas projects and administrative tasks.
 	- Will Owens
-- Treasure: Manages the budget, purchases resources, and procures funding.
-	- Greg Fussell
+- Vice President: Assists with president's responsibilities and in charge of tech talks.
+	- Alejandro Santacoloma
+- Treasurer: Manages the budget, purchases resources, and procures funding.
+	- Paolo Garcia
 - Secretary: Records minutes, reviews and keeps documentation up-to-date, and assists other officers.
-	- Josh Hew
+	- Dylan Alverez
 - Social Chair: Schedules meetings, sends out announcements, and creates social media posts.
-	- Anthony Rossello 
+	- Hunter Jarrell
 - External Relations Chair: Works with other clubs to do joint events and keep members up-to-date on other organizations.
-	- Joe Komskis
+	- Jing Low
 - Project Leads: Manages goals and tasks for projects, makes technical decisions, and serves as a resource for their project.
 	- Alejandro Santacoloma, Marston vs West Video Game
 
@@ -113,7 +113,7 @@ In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other fil
 [Git Resource]: https://github.com/ufosc/resources/tree/master/resources/git "OSC Git resource page"
 [License Resource]: https://github.com/ufosc/resources/blob/master/resources/licenses.md "OSC licenses resources page"
 [Listserv Sign Up]: https://docs.google.com/forms/d/e/1FAIpQLSfeU1RSGQWOZfvQXLrUGnDAKvVAqO7gc3TZySmN1CFhCM9uog/viewform?c=0&w=1 "OSC Listserv sign up"
-[Project List]: https://github.com/ufosc/club-documents/blob/master/Project-Ideas.md "OSC project list"
+[Project List]: https://github.com/ufosc/club-documents/blob/master/Club-Project-Ideas.md "OSC project list"
 [Project Template]: https://github.com/ufosc/resources/tree/master/project-template "Template for all the important files for an open source project"
 [OSC Club Documents]: https://github.com/ufosc/club-documents "Official club documents"
 [OSC Email]: mailto:gator.osc@gmail.com "Official OSC email"
