@@ -8,6 +8,6 @@ HTML uses "markup" to annotate text, images, and other content for display in a 
 
 ## Resources
 
-- [Guide to HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Guide to HTML]( https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [Professional Video Tutorial](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3ahtml%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) (you can sign in with your ufl email)
 - [Each element of HTML](https://www.w3schools.com/html/default.asp)
