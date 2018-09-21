@@ -24,7 +24,7 @@
 
 **End with an example of getting some data out of the system or using it for a little demo.**
 
-### Compiling 
+### Compiling
 
 **Give step**
 
@@ -40,12 +40,12 @@
 
 ## Built With
 
-- **List of technologies used**
-- **Give a short description of what each is**
+- **Technology - short description**
+- **Technology - short description**
 
 ## Contributing
 
-Please read **[CONTRIBUTING.md](CONTRIBUTING.md)** for how to work on the project.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for how to work on the project.
 
 ## License
 
