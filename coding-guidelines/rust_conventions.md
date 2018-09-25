@@ -32,13 +32,13 @@
     
 - When using type names within file names, refer to the following
 
-| Type Names | Names within method | 
-| --- | --- | 
-| `&str` | `str` | 
-| `&[T]` | `slice` |
-| `&Mut [T]` | `mut_slice` | 
-| `&[u8]` | `bytes` | 
-| `&T` | `ref` |
-| `&mut T` | `mut` | 
-| `*const T` | `pointer` | 
-| `*mut T` | `mut_ptr` | 
+    | Type Names | Names within method | 
+    | --- | --- | 
+    | `&str` | `str` | 
+    | `&[T]` | `slice` |
+    | `&Mut [T]` | `mut_slice` | 
+    | `&[u8]` | `bytes` | 
+    | `&T` | `ref` |
+    | `&mut T` | `mut` | 
+    | `*const T` | `pointer` | 
+    | `*mut T` | `mut_ptr` | 
