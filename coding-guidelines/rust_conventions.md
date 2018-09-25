@@ -31,6 +31,7 @@
     | into_ | Variable |
     
 - When using type names within file names, refer to the following
+
 | Type Names | Names within method | 
 | --- | --- | 
 | `&str` | `str` | 
