@@ -23,11 +23,13 @@
 ## Additional information
 - Use `tabs` instead of `spaces`
 - When using conversions, use the following naming conventions ([for more info](https://rust-lang-nursery.github.io/api-guidelines/naming.html))
+    
     | Prefix | Cost |
     | --- | --- |
     | as_ | Free | 
     | to_ | Expensive | 
-    | into_ | Variable | 
+    | into_ | Variable |
+    
 - When using type names within file names, refer to the following
 | Type Names | Names within method | 
 | --- | --- | 
