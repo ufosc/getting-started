@@ -50,7 +50,7 @@ Though we primarily work on open source software, you don't have to be a program
 
 ### How to Join
 
-Sign up for our **[email list][Listserv Sign Up]** our **[Facebook group][OSC Facebook]** for meeting announcements and join our **[Slack][OSC Slack]** to communicate with other members and ask questions. And of course, come to our meetings! Introduce yourself, work on projects, and have fun.
+Sign up for our **[email list][Listserv Sign Up]** our **[Facebook group][OSC Facebook]** for meeting announcements and join our **[Discord][OSC Discord]** to communicate with other members and ask questions. And of course, come to our meetings! Introduce yourself, work on projects, and have fun.
 
 ## The Basics
 
@@ -120,4 +120,4 @@ In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other fil
 [OSC Facebook]: https://www.facebook.com/groups/ufosc/ "Official OSC Facebook"
 [Markdown Resource]: https://github.com/ufosc/resources/tree/master/resources/markdown "OSC Markdown resource page"
 [OSC Resources]: https://github.com/ufosc/resources "Official club resources"
-[OSC Slack]: https://ufosc.slack.com/ "Official OSC Slack"
+[OSC Discord]: discord.gg/Gsxej6u "Official OSC Discord"
