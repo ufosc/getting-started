@@ -1,4 +1,4 @@
-# Open Source Club Introduction
+us to surface up to three repository recommendations in the new right sidebar.# Open Source Club Introduction
 
 Welcome! This file exists to introduce people to what the OSC is, how OSC works, and where to find additional resources. 
 
@@ -120,4 +120,4 @@ In addition to the LICENSE and CONTRIBUTING file, you may see a lot of other fil
 [OSC Facebook]: https://www.facebook.com/groups/ufosc/ "Official OSC Facebook"
 [Markdown Resource]: https://github.com/ufosc/resources/tree/master/resources/markdown "OSC Markdown resource page"
 [OSC Resources]: https://github.com/ufosc/resources "Official club resources"
-[OSC Discord]: discord.gg/Gsxej6u "Official OSC Discord"
+[OSC Discord]: https://discord.gg/Gsxej6u "Official OSC Discord"
