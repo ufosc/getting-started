@@ -2,7 +2,7 @@
 
 Thank you for helping out with the Open Source Clubs's resources!
 
-Please check out our [slack](http://ufosc.slack.com/) for any additional questions or just to hangout! 
+Please check out our [Discord](http://discord.gg/Gsxej6u/) for any additional questions or just to hangout! 
 
 Following these guidelines helps us keep good project workflow. We appreciate you working with us on it. 
 
