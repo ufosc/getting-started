@@ -1,6 +1,6 @@
-# Contributing to Resources 
+# Contributing to Getting Started 
 
-Thank you for helping out with the Open Source Clubs's resources!
+Thank you for helping out with the Open Source Clubs's getting started repository!
 
 Please check out our [Discord](http://discord.gg/Gsxej6u/) for any additional questions or just to hangout! 
 
@@ -8,7 +8,7 @@ Following these guidelines helps us keep good project workflow. We appreciate yo
 
 ## How to help?
 
-Please check the [Projects](https://github.com/ufosc/resources/projects) and [Issues](https://github.com/ufosc/resources/issues) pages for current task. If you see something that you would like to help with, please ask about helping in a comment. 
+Please check the [Projects](https://github.com/ufosc/getting-started/projects) and [Issues](https://github.com/ufosc/getting-started/issues) pages for current task. If you see something that you would like to help with, please ask about helping in a comment. 
 
 ### Submit Changes 
 
@@ -25,8 +25,8 @@ Please check the [Projects](https://github.com/ufosc/resources/projects) and [Is
 
 ### Report Bug 
 
-Please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an [Issue](https://github.com/ufosc/resources/issues) with this description and add a bug label. We will do our best to respond quickly to it. 
+Please provide a detailed description of the bug. Include what was happening before the error, all settings, and test results. This helps us more quickly identify and solve any problems. Create an [Issue](https://github.com/ufosc/getting-started/issues) with this description and add a bug label. We will do our best to respond quickly to it. 
 
 ### Request a Feature
 
-Check to see if the feature is already listed in our [Projects](https://github.com/ufosc/resources/projects). If it's not, describe the feature and why it would be beneficial. Create an [Issue](https://github.com/ufosc/resources/issues) with this description and add a feature enhancement label. We will do our best to respond quickly to it. 
+Check to see if the feature is already listed in our [Projects](https://github.com/ufosc/getting-started/projects). If it's not, describe the feature and why it would be beneficial. Create an [Issue](https://github.com/ufosc/getting-started/issues) with this description and add a feature enhancement label. We will do our best to respond quickly to it. 
