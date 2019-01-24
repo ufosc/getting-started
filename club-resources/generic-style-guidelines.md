@@ -1,4 +1,10 @@
-# General Style Guidelines
+# Generic Style Guidelines
+
+The goal behind most of the guidelines is to keep code simple and readable. This makes collaborating on projects easier and causes less issues down the road.
+
+Please use these examples below as a starting point for the style guidelines of any club projects.
+
+At the bottom are links to good examples and ideas about coding. They aren't rules by any means, but they may prove insightful to you.
 
 ## Simple Example
 
@@ -32,7 +38,7 @@ public void myFunction(int arg)
 	- When breaking up a line return after commas, and before (+, -, ==, &&, etc).
 
 ```c++
-if (bar == 5 || bar == 12 || bar == 98 
+if (bar == 5 || bar == 12 || bar == 98
 		|| bar == 120 || bar == 177 || var == 180)
 {
 	foo = 2;
@@ -52,7 +58,7 @@ int x = 1 + 3;
 // Multiplication
 bool y = true || false;
 ```
-- Naming  
+- Naming
 	- Use descriptive names, with correctly spelled words
 	- Constants in CAPS_WITH_UNDER
 	- Classes in CapWords
@@ -122,3 +128,9 @@ int main()
 	return 0;
 }
 ```
+
+## References
+
+- [Google Coding Philosophy](https://github.com/google/styleguide/blob/gh-pages/docguide/philosophy.md)
+- [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+- [Various Practices](https://github.com/thomasdavis/best-practices)

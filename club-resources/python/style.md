@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This document serves to give a brief overview of the accepted coding style for python as stated in the PEP 8 style guide. For those who would like 
-more information about accepted Python code style practices, consult the 
+This document serves to give a brief overview of the accepted coding style for python as stated in the PEP 8 style guide. For those who would like
+more information about accepted Python code style practices, consult the
 Additional Resources section at the bottom of this document. Now without further ado, let's get started.
 
 ## Code Layout
@@ -15,7 +15,7 @@ method, however, code that has already been written using tabs should
 continue to use tabs to maintain consistency.
 
 It is important to note that Python 3 does not allow the mixing of tabs
-and spaces for indentation. 
+and spaces for indentation.
 
 Often times, we need to break code up along multiple lines.
 
@@ -56,7 +56,7 @@ Imports should be grouped in the following order:
 ## Comments
 
 Comments should be written in complete sentences. The first word in the
-sentence is capitalized, unless the first word is an identifier that 
+sentence is capitalized, unless the first word is an identifier that
 begins with a lower case letter.
 
 If comment is short, the period can be omitted.
@@ -88,8 +88,8 @@ def foo():
 
 Use inline comments sparingly.
 
-Inline comments are comments on the same line as a statement. They are 
-used to describe the statement if it is confusing. They should be 
+Inline comments are comments on the same line as a statement. They are
+used to describe the statement if it is confusing. They should be
 separated by at least two spaces from the statement.  They start with a `#`
 and a single space.
 
@@ -102,9 +102,9 @@ x = x + 1	# Compensate for border.
 
 Commonly called docstrings.
 
-Docstrings provide an easy way to write documentation for Python modules, 
+Docstrings provide an easy way to write documentation for Python modules,
 classes, and functions. It is good practice to write docstrings for all
-public modules, functions, classes, and methods.  
+public modules, functions, classes, and methods.
 
 #### Examples
 
@@ -165,4 +165,3 @@ describing the "pythonic" way of writing code.
 * [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [PEP 257 - Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
- 

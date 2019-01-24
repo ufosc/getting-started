@@ -1,4 +1,13 @@
-# Getting Started
+# Git
+
+Use this file to learn how to create or copy your own Git repository and make your first commit! 
+
+For more information about Git, look at the other files here or the references at the bottom.
+
+- [Concepts](concepts.md) - Covers the terminology and ideas behind using Git.  
+- [Advanced](advanced.md) - More information regarding Git usage, such as switching branches and making issues. 
+
+Also learn about our Git workflow using [GitFlow][GutHub GitFlow]! It'll describe where to branch and merge to keep everything organized! 
 
 ## What you need
 
@@ -41,7 +50,7 @@ git init
 
 ## Project from GitHub
 
-Copy the url from the repository you want on your computer.
+Copy the URL from the repository you want on your computer.
 
 **git clone** - This will create a copy of the designated repository on your computer.
 
@@ -98,3 +107,14 @@ git push origin master
 ```
 
 And now you're changes are on the remote repository!
+
+## References
+
+- [Official GitHub Course](https://lab.github.com/)
+- [Interactive GitHub Tutorial](https://www.codeschool.com/courses/try-git)
+- [Simple Gitflow][GutHub GitFlow]
+- [In Depth Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow/)
+- [Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+- [Saving GitHub login credentials](https://help.github.com/articles/caching-your-github-password-in-git/)
+
+[GutHub GitFlow]: https://guides.github.com/introduction/flow/ "GitHub guide for GitFlow"
