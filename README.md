@@ -66,21 +66,26 @@ We have a couple types of meetings. Check our [Facebook][OSC Facebook] for times
 
 The officers are listed below
 - President: Keeps everything running, overseas projects and administrative tasks.
-	- Will Owens
-- Vice President: Assists with president's responsibilities and in charge of tech talks.
-	- Alejandro Santacoloma
-- Treasurer: Manages the budget, purchases resources, and procures funding.
-	- Paolo Garcia
-- Secretary: Records minutes, reviews and keeps documentation up-to-date, and assists other officers.
-	- Dylan Alverez
-- Social Chair: Schedules meetings, sends out announcements, and creates social media posts.
 	- Hunter Jarrell
+- Vice President: Assists with president's responsibilities and in charge of tech talks.
+	- Brandon Clark
+- Treasurer: Manages the budget, purchases resources, and procures funding.
+	- Logan Smith
+- Secretary: Records minutes, reviews and keeps documentation up-to-date, and assists other officers.
+	- Andrew Whigham
+- Social Chairs: Schedules meetings, sends out announcements, and creates social media posts.
+	- Ryan Aponte
+	- Santoshkrishna Tirumala
+- Server Administrator: Handles access and maintainence of the club server.
+	- Jonathan Conlin
 - External Relations Chair: Works with other clubs to do joint events and keep members up-to-date on other organizations.
-	- Jing Low
+	- Haozhe Zhang
+- USAB Representative: Works with the USAB to make sure our club is the best it can be.
+	- Dakota Rennemann
 - Project Leads: Manages goals and tasks for projects, makes technical decisions, and serves as a resource for their project.
-	- Matthew Booe, Club Website, Back-End, and Admin Portal
+	- Brandon Clark, Club Website, Back-End, and Admin Portal
 	- Alejandro Santacoloma, Marston vs West Video Game
-	- Hunter Jarrell, GatorQuestions 
+	- Hunter Jarrell, Ask-A-Gator, ALBot
 	- Will Owens, MuddySwamp
 
 ### Projects
