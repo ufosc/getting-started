@@ -65,7 +65,7 @@ We have a couple types of meetings. Check our [Facebook][OSC Facebook] for times
 ### Organization
 
 The officers are listed below
-- President: Keeps everything running, overseas projects and administrative tasks.
+- President: Keeps everything running, oversees projects and administrative tasks.
 	- Hunter Jarrell
 - Vice President: Assists with president's responsibilities and in charge of tech talks.
 	- Brandon Clark
